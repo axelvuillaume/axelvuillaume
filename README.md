@@ -1,4 +1,4 @@
-# Salut, moi c'est Axel 👋
+# Salut, moi c'est Axel
 
 **Fullstack TypeScript / React / Node.js · Lead Tech @ [Selego](https://selego.co)**
 
