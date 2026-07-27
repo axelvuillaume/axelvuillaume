@@ -37,7 +37,9 @@ SoloQ honesty check : "c'est ma faute ou celle de mes mates ?" — réponse stat
 `TypeScript` `JavaScript` `React` `Tailwind` `Node.js` `MongoDB` `REST API`
 
 **Intégrations** : Microsoft Graph · Stripe · Riot Games · LinkedIn · OAuth
+
 **IA** : Claude Code · agents · MCP · RAG · OpenAI / Gemini / Anthropic API
+
 **Déploiement** : Clever Cloud (certifié) · Railway · S3 · Sentry
 
 ---
