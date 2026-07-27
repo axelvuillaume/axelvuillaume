@@ -4,7 +4,7 @@
 
 Je conçois et je livre des produits SaaS de bout en bout : architecture, dev, mise en prod, et tout ce qu'il y a autour (paiements, analytics, monitoring). J'utilise l'IA au quotidien dans mon dev (Claude Code, agents, MCP) et j'en intègre dans les produits que je construis (RAG, chatbots, génération).
 
-📍 Bordeaux · Ouvert aux opportunités fullstack en startup / scale-up produit
+📍 Ouvert aux opportunités fullstack en startup / scale-up produit
 
 ---
 
